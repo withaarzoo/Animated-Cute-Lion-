@@ -39,7 +39,7 @@ Contributions are welcome! If you'd like to enhance the animation, fix any issue
 
 ## Credits
 
-This project was created by [Aarzoo75](https://github.com/Aarzoo75). Special thanks to all the contributors who have helped improve the project.
+This project was created by [Aarzoo75](https://twitter.com/Aarzoo75). Special thanks to all the contributors who have helped improve the project.
 
 ## License
 
